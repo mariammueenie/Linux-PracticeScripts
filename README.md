@@ -16,29 +16,21 @@ A collection of Linux and Bash practice scripts organized by topic and progressi
 - `04-nginx-load-balancing-and-multi-node-web-hosting/`
   - Bash automation for configuring an NGINX load balancer and two Apache backend nodes in a multi-VM Linux hosting environment
 
-Additional folders will be added over time to demonstrate growth in Linux scripting, command-line usage, and system administration skills.
+Additional folders will be added over time to reflect continued growth in Linux scripting, command-line usage, and system administration skills.
 
-## Goals
+## Technical Skills Demonstrated
 
-This repository is intended to show practice with:
+### 01 - User and Permissions Management
+Built foundational Linux command-line skills through directory creation, permission changes, ownership concepts, wildcard usage, and secure file handling with Bash.
 
-- Bash scripting
-- Linux filesystem navigation
-- file and directory operations
-- permissions and ownership concepts
-- wildcard usage
-- shell customization
-- cleanup and secure directory setup
+### 02 - System Info and Grade Processing
+Automated file generation, system information capture, sorting, filtering, and terminal-based validation using Bash scripting and standard Linux command-line tools.
 
- Bash scripting
-- Linux filesystem navigation
-- file and directory automation
-- permissions and access control
-- output redirection
-- sorting and filtering
-- shell command pipelines
-- system information commands
-- validation and testing with terminal tools
+### 03 - Web Server and Static Site Deployment
+Deployed a static website on Fedora by automating SSH setup, Apache installation, service management, HTML generation, file deployment, and browser-based testing.
+
+### 04 - NGINX Load Balancing and Multi-Node Web Hosting
+Configured a multi-VM Linux hosting environment with NGINX load balancing, Apache backend nodes, firewall and SELinux configuration, hostname mapping, and backend routing validation.
 
 ## Progression Plan
 
@@ -46,8 +38,8 @@ Scripts are grouped into numbered folders so the order of learning and increasin
 
 Planned future topics may include:
 
-- file operations and directory automation
-- system information and monitoring
-- backup and archiving
-- process management
-- package installation and updates
+- system monitoring and diagnostics
+- backup and archiving automation
+- process and service management
+- package installation and update automation
+- scheduled tasks and cron jobs
