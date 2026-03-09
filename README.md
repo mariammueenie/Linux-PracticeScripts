@@ -16,6 +16,9 @@ A collection of Linux and Bash practice scripts organized by topic and progressi
 - `04-nginx-load-balancing-and-multi-node-web-hosting/`
   - Bash automation for configuring an NGINX load balancer and two Apache backend nodes in a multi-VM Linux hosting environment
 
+- `05-apache-htaccess-security-and-access-control/`
+  - Bash automation for Apache deployment, `.htaccess` Basic Authentication, protected directory setup, and browser-based access control validation
+
 Additional folders will be added over time to reflect continued growth in Linux scripting, command-line usage, and system administration skills.
 
 ## Technical Skills Demonstrated
@@ -31,6 +34,9 @@ Deployed a static website on Fedora by automating SSH setup, Apache installation
 
 ### 04 - NGINX Load Balancing and Multi-Node Web Hosting
 Configured a multi-VM Linux hosting environment with NGINX load balancing, Apache backend nodes, firewall and SELinux configuration, hostname mapping, and backend routing validation.
+
+### 05 - Apache HTAccess Security and Access Control
+Built a Bash automation script to deploy Apache on Linux, configure `.htaccess` and `.htpasswd` for Basic Authentication, protect a web directory under `/var/www/html`, and validate access control through browser prompts and Apache log inspection.
 
 ## Progression Plan
 
