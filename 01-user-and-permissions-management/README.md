@@ -37,7 +37,6 @@ This script practices foundational Linux command-line skills, including:
 
 From the repo root:
 
-'''
-bash
+'''bash
 chmod +x 01-user-and-permissions-management/user-and-permissions-management.sh
 ./01-user-and-permissions-management/user-and-permissions-management.sh
