@@ -41,4 +41,3 @@ From the repo root:
 bash
 chmod +x 01-user-and-permissions-management/user-and-permissions-management.sh
 ./01-user-and-permissions-management/user-and-permissions-management.sh
-'''
