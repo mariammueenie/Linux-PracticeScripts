@@ -10,6 +10,9 @@ A collection of Linux and Bash practice scripts organized by topic and progressi
 - `02-system-info-and-grade-processing/`
   - Bash automation for system information capture, grade file generation, backups, secure permissions, and numeric sorting
 
+- `03-web-server-and-static-site-deployment/`
+  - Bash automation for SSH setup, Apache deployment, static webpage generation, and image-based web hosting on Fedora
+
 Additional folders will be added over time to demonstrate growth in Linux scripting, command-line usage, and system administration skills.
 
 ## Goals
@@ -45,21 +48,3 @@ Planned future topics may include:
 - backup and archiving
 - process management
 - package installation and updates
-
-## Current Script
-
-### `01-user-and-permissions-management`
-
-Practices:
-
-- creating nested directories
-- creating and copying files
-- viewing contents with `cat`
-- changing permissions with `chmod`
-- appending calendar output to a file
-- wildcard matching
-- removing files and directories
-- setting secure directory permissions
-
----
-Created as part of Linux command-line and scripting practice.
