@@ -13,6 +13,9 @@ A collection of Linux and Bash practice scripts organized by topic and progressi
 - `03-web-server-and-static-site-deployment/`
   - Bash automation for SSH setup, Apache deployment, static webpage generation, and image-based web hosting on Fedora
 
+- `04-nginx-load-balancing-and-multi-node-web-hosting/`
+  - Bash automation for configuring an NGINX load balancer and two Apache backend nodes in a multi-VM Linux hosting environment
+
 Additional folders will be added over time to demonstrate growth in Linux scripting, command-line usage, and system administration skills.
 
 ## Goals
