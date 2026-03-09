@@ -1,6 +1,6 @@
 # 03 - Web Server and Static Site Deployment
 
-This folder contains a Bash script that automates SSH setup, Apache setup, web directory creation, static HTML generation, image deployment, and local browser testing on Fedora Linux.
+Built a Bash-based Linux deployment script to automate OpenSSH and Apache installation, configure services with systemd, create and populate a web root under /var/www/html, generate a static HTML page from script output, deploy media assets, and validate the hosted site through localhost/browser testing on Fedora.
 
 ## File
 
