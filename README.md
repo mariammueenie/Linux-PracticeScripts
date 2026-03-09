@@ -7,6 +7,9 @@ A collection of Linux and Bash practice scripts organized by topic and progressi
 - `01-user-and-permissions-management/`
   - foundational Linux file, directory, and permissions practice
 
+- `02-system-info-and-grade-processing/`
+  - Bash automation for system information capture, grade file generation, backups, secure permissions, and numeric sorting
+
 Additional folders will be added over time to demonstrate growth in Linux scripting, command-line usage, and system administration skills.
 
 ## Goals
@@ -20,6 +23,16 @@ This repository is intended to show practice with:
 - wildcard usage
 - shell customization
 - cleanup and secure directory setup
+
+ Bash scripting
+- Linux filesystem navigation
+- file and directory automation
+- permissions and access control
+- output redirection
+- sorting and filtering
+- shell command pipelines
+- system information commands
+- validation and testing with terminal tools
 
 ## Progression Plan
 
