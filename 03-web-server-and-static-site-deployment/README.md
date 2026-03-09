@@ -1,6 +1,6 @@
 # 03 - Web Server and Static Site Deployment
 
-Built a Bash-based Linux deployment script to automate OpenSSH and Apache installation, configure services with systemd, create and populate a web root under /var/www/html, generate a static HTML page from script output, deploy media assets, and validate the hosted site through localhost/browser testing on Fedora.
+Built a Bash-based Linux deployment script to automate OpenSSH and Apache installation, configure services with `systemd`, create and populate a web root under `/var/www/html`, generate a static HTML page from script output, deploy media assets, and validate the hosted site through localhost and browser testing on Fedora.
 
 ## File
 
@@ -36,7 +36,7 @@ This script:
 - browser-based validation and testing
 - basic SELinux-aware deployment workflow
 
-## Output / Deployment Result
+## Deployment Output
 
 - `index.html` created in `/var/www/html/comp2018_A3`
 - `favourite.jpg` copied into the same deployment directory
@@ -45,6 +45,7 @@ This script:
   - `http://<machine-ip>/comp2018_A3/`
 
 ## Screenshots
+
 ### Create and run the script
 ![Create and run the script](screenshots/assignment03_p1.png)
 
@@ -74,7 +75,6 @@ This script:
 
 ### Updated webpage browser result
 ![Updated webpage browser result](screenshots/assignment03_p10.png)
-
 
 ## Run
 
